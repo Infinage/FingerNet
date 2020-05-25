@@ -18,5 +18,7 @@ matches among pairs of images.
 For further instructions on how the model was trained and the data extracted, check out the two
 jupyter notebooks from the repo. The model is stored in the *saved model* format of keras.
 
-Trained Model Link: https://drive.google.com/drive/folders/1TOeeW65XYBGaLeqMdPLpEDy9LEh1AbCE?usp=sharing
+*Finger_print_verification_part_I.ipynb* describes the preprocessing steps that went into the kaggle dataset.
+*Fingerprint_verification_part_II.ipynb* contains detals regarding the model training and inference.
 
+Link to trained model and preprocessed images: https://drive.google.com/drive/folders/11-eD3OMVvAx1nvib3cS6O6CUayojdmm1?usp=sharing
